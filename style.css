@@ -15,6 +15,7 @@ nav {
     background-color: rgba(240, 246, 247, .5);
 }
 nav h2 {
+    font-family: 'STIX Two Text', serif;
     line-height: 56px;
     display: inline-block;
     margin-left: 40px;
